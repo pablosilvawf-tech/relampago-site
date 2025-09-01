@@ -9,9 +9,10 @@
 </head>
 <body>
 
+  <!-- HEADER simples com logo e botão voltar -->
   <header class="nr-header" style="border-bottom:1px solid rgba(255,255,255,.08)">
     <div class="nr-header__inner">
-      <!-- Logo volta para a raiz do repositório (./) -->
+      <!-- GitHub Pages: usar ./ para voltar pra raiz do repositório -->
       <a class="nr-logo" href="./" aria-label="Voltar para a Home">
         <img src="noticia-relampago-logo.png" alt="Notícia Relâmpago" class="logo-img">
       </a>
@@ -19,11 +20,12 @@
     </div>
   </header>
 
+  <!-- CONTEÚDO: o JS preenche este <article> com base no slug -->
   <main class="nr-content">
-    <!-- O JS vai preencher este artigo -->
     <article id="post" class="nr-post" style="max-width:900px;margin:24px auto;padding:0 16px"></article>
   </main>
 
+  <!-- RODAPÉ enxuto -->
   <footer class="nr-footer-portal">
     <div class="nrf-legal">
       <div class="nrf-legal__inner">
@@ -37,7 +39,7 @@
     </div>
   </footer>
 
+  <!-- JS do site -->
   <script src="assets/js/app.js" defer></script>
 </body>
 </html>
-
