@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "slug": "primeira-materia",
+      "date": "2025-08-31",
+      "title": "Vitória da Conquista: inovação em alta",
+      "excerpt": "Startups locais e novos espaços de coworking impulsionam o ecossistema empreendedor.",
+      "category": "Cidade",
+      "image": "public/vitoria-conquista.jpg"
+    },
+    {
+      "slug": "segunda-materia",
+      "date": "2025-08-31",
+      "title": "Brasil acelera 5G e serviços digitais",
+      "excerpt": "Conectividade ampliada promete agilizar o acesso a serviços públicos no celular.",
+      "category": "Tecnologia",
+      "image": "public/5g.jpg"
+    },
+ {
+  "slug": "terceira-materia",
+  "date": "2025-08-31",
+  "title": "Startups impulsionam ecossistema de inovação em Vitória da Conquista",
+  "excerpt": "A cidade tem se consolidado como um polo regional de tecnologia, com o surgimento de startups e projetos digitais voltados para diferentes áreas. A parceria entre empreendedores, universidades e empresas locais fortalece o ambiente de inovação e abre novas oportunidades para o mercado.",
+  "category": "Tecnologia",
+  "image": "public/placeholder.jpg"
+}
+  ]
+}
+

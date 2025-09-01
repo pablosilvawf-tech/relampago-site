@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": "pl-001",
+      "title": "Reforma avança na Câmara",
+      "slug": "reforma-avanca-na-camara",
+      "category": "POLÍTICA",
+      "date": "2025-08-31T12:00:00-03:00",
+      "author": "Redação",
+      "cover": "img/politica1.jpg",
+      "excerpt": "Texto-base aprovado em comissão e segue para plenário.",
+      "content": "<p>O texto-base da reforma foi aprovado... (coloque aqui o HTML completo da matéria).</p>"
+    },
+    {
+      "id": "ec-001",
+      "title": "Bolsa fecha em alta puxada por techs",
+      "slug": "bolsa-alta-techs",
+      "category": "ECONOMIA",
+      "date": "2025-08-30T18:20:00-03:00",
+      "author": "Economia NR",
+      "cover": "img/economia1.jpg",
+      "excerpt": "Índice sobe após balanços acima do esperado.",
+      "content": "<p>As ações de tecnologia lideraram os ganhos...</p>"
+    },
+    {
+      "id": "md-001",
+      "title": "Furacão atinge costa e causa danos",
+      "slug": "furacao-costa-danos",
+      "category": "MUNDO",
+      "date": "2025-08-29T10:15:00-03:00",
+      "author": "Agências",
+      "cover": "img/mundo1.jpg",
+      "excerpt": "Autoridades emitem alertas; aeroportos operam com restrições.",
+      "content": "<p>Ventania acima de 160 km/h foi registrada...</p>"
+    },
+    {
+      "id": "sd-001",
+      "title": "Nova vacina é aprovada pela Anvisa",
+      "slug": "nova-vacina-aprovada",
+      "category": "SAÚDE",
+      "date": "2025-08-28T08:00:00-03:00",
+      "author": "Saúde NR",
+      "cover": "img/saude1.jpg",
+      "excerpt": "Imunizante será distribuído pelo SUS a partir de outubro.",
+      "content": "<p>A Anvisa aprovou o uso emergencial...</p>"
+    },
+    {
+      "id": "tc-001",
+      "title": "IA generativa chega a celulares de entrada",
+      "slug": "ia-celulares-entrada",
+      "category": "TECNOLOGIA",
+      "date": "2025-08-27T16:40:00-03:00",
+      "author": "Tech NR",
+      "cover": "img/tecnologia1.jpg",
+      "excerpt": "Fabricantes anunciam recursos de IA em aparelhos mais baratos.",
+      "content": "<p>Os novos modelos trazem resumo inteligente...</p>"
+    },
+    {
+      "id": "es-001",
+      "title": "Clássico termina empatado no fim",
+      "slug": "classico-empate",
+      "category": "ESPORTE",
+      "date": "2025-08-26T21:50:00-03:00",
+      "author": "Esportes NR",
+      "cover": "img/esporte1.jpg",
+      "excerpt": "Gols saem nos acréscimos e torcida vai ao delírio.",
+      "content": "<p>Com estádio lotado, as equipes fizeram jogo aberto...</p>"
+    }
+  ]
+}
